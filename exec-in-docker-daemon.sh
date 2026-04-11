@@ -20,4 +20,5 @@ $DOCKER run -d --restart=unless-stopped \
     -v "$PWD/data:/data" \
     -v "$PWD/custom:/custom" \
     -w /custom \
-    --name owui node:20 bash -c "$1"
+    --name owui \
+    owui bash -c "$1"

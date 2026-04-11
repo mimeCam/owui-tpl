@@ -1,0 +1,12 @@
+{
+  "name" : "Explain",
+  "every_secs" : 0,
+  "ask" : "",
+  "desc" : "Ask questions about owui features before asking to make changes.",
+  "agent" : "cc_docker",
+  "levels" : [
+    [
+      "explainer"
+    ]
+  ]
+}

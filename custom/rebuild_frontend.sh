@@ -10,8 +10,4 @@ cd open-webui
 cp -RPp .env.example .env
 npm install
 
-# npm run build
 NODE_OPTIONS="--max-old-space-size=4096" npm run build
-
-# npm run dev
-# npm run preview

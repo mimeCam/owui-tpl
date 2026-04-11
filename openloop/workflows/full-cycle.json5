@@ -1,0 +1,21 @@
+{
+  "every_secs" : 0,
+  "agent" : "cc_docker-z",
+  "ask" : "Apply changes to open-webui source code inside `custom/open-webui/*.`",
+  "levels" : [
+    [
+      "stop-existing"
+    ],
+    [
+      "prepare-fresh"
+    ],
+    [
+      ":apply-changes"
+    ],
+    [
+      "start-new"
+    ]
+  ],
+  "desc" : "",
+  "name" : "full-cycle"
+}

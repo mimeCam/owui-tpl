@@ -1,0 +1,7 @@
+{
+  "name" : "apply-changes",
+  "about" : "",
+  "task" : "`changes` folder has 0 or more files, each describing a change needed to apply to `open-webui` source code in `custom/open-webui/*`. Read all files and apply changes requested.",
+  "agent" : "",
+  "role" : ""
+}

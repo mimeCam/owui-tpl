@@ -1,0 +1,7 @@
+{
+  "about" : "",
+  "name" : "rebuild",
+  "agent" : "rebuild.sh",
+  "task" : "",
+  "role" : ""
+}

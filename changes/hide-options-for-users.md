@@ -1,0 +1,1 @@
+For logged-in user accounts (not admins) - hide 3 buttons at the right top of the main wep page: `controls`, `temporary chat` and `profile / account` icon buttons. This are excessive buttons that users do not need. Only admins configure these parameters. Users to use default values.

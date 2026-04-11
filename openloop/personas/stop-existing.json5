@@ -1,0 +1,7 @@
+{
+  "task" : "",
+  "name" : "stop-existing",
+  "role" : "",
+  "about" : "",
+  "agent" : "stop-existing.sh"
+}

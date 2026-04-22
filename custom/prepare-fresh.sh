@@ -3,7 +3,8 @@
 
 rm -rf .git
 rm -rf open-webui
-git clone https://github.com/open-webui/open-webui.git
+# git clone https://github.com/open-webui/open-webui.git # nei
+git clone --branch v0.8.12 --depth 1 https://github.com/open-webui/open-webui.git
 rm -rf open-webui/.git
 # (cd open-webui/backend && rm -rf data && ln -s /data data)
 (cd open-webui/backend && rm -rf data)
